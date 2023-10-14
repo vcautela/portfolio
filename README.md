@@ -1,7 +1,8 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-(![Template - Thumbnails GitHub](https://github.com/vcautela/portfolio/assets/143463737/3893e885-1796-4aa8-8a40-0f30e1f2873d)
+![Template - Thumbnails GitHub](https://github.com/vcautela/portfolio/assets/143463737/b23f15c4-d13f-46f6-8d7d-d1542534ec80)
+
 
 
 ## Ferramentas utilizadas:
